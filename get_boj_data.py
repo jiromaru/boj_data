@@ -1,5 +1,4 @@
 ##############################import#####################################
-import urllib.request
 import os
 import pickle
 import sys
