@@ -25,3 +25,6 @@ OS:Windows10
   get_dict.pyで準備した辞書を使用して、取得したい統計データ名を選択するための画面を作成する(tkinterを使用)。
 * download.py  
   取得したい統計データを選択後、実際に日本銀行のwebサイトから該当データを取得する(seleniumを使用)。
+  
+### 実行画面
+![実行画面](https://github.com/jiromaru/boj_data/blob/images/boj_images.png?raw=true)
